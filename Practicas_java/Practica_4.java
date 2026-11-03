@@ -39,4 +39,3 @@ public class Practica_4 {
         teclado.close();
     }
 }
-
