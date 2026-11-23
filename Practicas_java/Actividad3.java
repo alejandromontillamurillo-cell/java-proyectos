@@ -1,3 +1,5 @@
+package Practicas_java;
+
 import java.util.Scanner;
 
 public class Actividad3 {
